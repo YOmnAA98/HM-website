@@ -1,5 +1,5 @@
 # HM-website
-"H&amp;M" is an E-commerce website similar to website H&amp;M.
+"H&amp;M" is an e-commerce website similar to website H&amp;M.
 
 Technologies Used: HTML, CSS, JS, JQuery.
 
